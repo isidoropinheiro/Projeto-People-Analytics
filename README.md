@@ -4,8 +4,8 @@ Estudo direcionado ao entendimento e à aplicação de conceitos de análise de 
 
 
 📕 TAREFAS
-1. Criar bases de estudo contendo:
-2. Analisar as bases e criar análises e indicadores aderentes a People Analytics;
+1. Criar bases de estudo;
+2. Criar análises e indicadores aderentes a People Analytics;
 3. Criar Dashboard com as análises realizadas e disponibilizar as respectivas conclusões.
 <br>
 
